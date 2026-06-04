@@ -1,0 +1,311 @@
+1
+00:00:00,000 --> 00:00:04,000
+The company behind Claude just did
+something OpenAI couldn't.
+
+2
+00:00:04,000 --> 00:00:09,200
+It filed to go public — at a nine hundred
+sixty-five billion dollar valuation.
+
+3
+00:00:09,200 --> 00:00:14,000
+And for the first time ever, in this race,
+OpenAI is the one playing catch-up.
+
+4
+00:00:14,000 --> 00:00:19,200
+Here's exactly what happened, and why the number
+on the screen flipped the entire AI industry.
+
+5
+00:00:19,200 --> 00:00:24,800
+Let's start with the facts, because
+the headlines are getting this slightly wrong.
+
+6
+00:00:24,800 --> 00:00:31,200
+On June first, Anthropic confidentially
+submitted a draft Form S-1 to the SEC.
+
+7
+00:00:31,200 --> 00:00:36,000
+In plain English: it filed the paperwork to go public.
+That's the first real step toward an IPO.
+
+8
+00:00:36,000 --> 00:00:41,200
+But notice the word "confidential."
+Anthropic is not publicly traded yet.
+
+9
+00:00:41,200 --> 00:00:46,800
+There's no ticker. No share price. The number
+of shares and the offer price aren't set.
+
+10
+00:00:46,800 --> 00:00:51,600
+All of that depends on SEC review and the market.
+
+11
+00:00:51,600 --> 00:00:58,000
+So the right way to say it: Anthropic has filed to
+go public. The IPO itself is proposed — not done.
+
+12
+00:00:58,000 --> 00:01:03,200
+Now, the number everyone's screenshotting.
+Nine hundred sixty-five billion dollars.
+
+13
+00:01:03,200 --> 00:01:09,600
+Here's where it comes from. Anthropic recently
+raised sixty-five billion dollars in fresh funding.
+
+14
+00:01:09,600 --> 00:01:15,200
+That round valued the company at
+roughly nine hundred sixty-five billion.
+
+15
+00:01:15,200 --> 00:01:21,600
+And one important detail — that's a private
+valuation, set by investors in a funding round.
+
+16
+00:01:21,600 --> 00:01:27,200
+It is not the price Anthropic will IPO at.
+Those are two different numbers.
+
+17
+00:01:27,200 --> 00:01:32,000
+But here's why it still matters so much.
+
+18
+00:01:32,000 --> 00:01:37,600
+That valuation, around its Series H
+back in May, leapfrogged OpenAI.
+
+19
+00:01:37,600 --> 00:01:44,800
+OpenAI was valued at eight hundred fifty-two billion
+dollars in March, after its own record raise.
+
+20
+00:01:44,800 --> 00:01:51,600
+So for the first time, in the private market, the maker
+of Claude is worth more than the maker of ChatGPT.
+
+21
+00:01:51,600 --> 00:01:57,200
+So why are investors throwing this kind of money around?
+It comes down to growth.
+
+22
+00:01:57,200 --> 00:02:02,800
+And these numbers are eye-popping. Now, fair warning:
+what I'm about to say is guidance Anthropic gave investors.
+
+23
+00:02:02,800 --> 00:02:07,200
+It's not audited financials.
+
+24
+00:02:07,200 --> 00:02:14,000
+With that flag up — Anthropic told investors it expects around
+ten point nine billion dollars in revenue in the second quarter.
+
+25
+00:02:14,000 --> 00:02:18,800
+That's more than double the quarter before.
+
+26
+00:02:18,800 --> 00:02:24,400
+It also pointed to an annualized run rate
+passing fifty billion dollars.
+
+27
+00:02:24,400 --> 00:02:29,600
+And it says it's on pace
+for its first profitable quarter.
+
+28
+00:02:29,600 --> 00:02:34,800
+If even most of that holds up,
+it explains the valuation.
+
+29
+00:02:34,800 --> 00:02:39,600
+This isn't a company burning cash with no plan.
+
+30
+00:02:39,600 --> 00:02:45,600
+The story they're selling is rare in AI —
+explosive growth that's actually turning a profit.
+
+31
+00:02:45,600 --> 00:02:51,200
+And this isn't just financial engineering.
+There's a real product behind it.
+
+32
+00:02:51,200 --> 00:02:56,800
+On May twenty-eighth, Anthropic released Claude Opus 4.8.
+
+33
+00:02:56,800 --> 00:03:02,400
+And it leads on the coding benchmarks
+that developers actually care about.
+
+34
+00:03:02,400 --> 00:03:09,200
+On SWE-bench Verified — a test of fixing real
+software bugs — it scored eighty-eight point six percent.
+
+35
+00:03:09,200 --> 00:03:13,600
+That's near the top of the industry.
+
+36
+00:03:13,600 --> 00:03:18,800
+Why does that matter for an IPO?
+Because coding is where the money is.
+
+37
+00:03:18,800 --> 00:03:24,000
+Companies are paying for Claude
+to write and fix their software.
+
+38
+00:03:24,000 --> 00:03:29,600
+So when you hear about a Claude demand
+surge in the IPO coverage, that's the engine.
+
+39
+00:03:29,600 --> 00:03:35,200
+A model that's genuinely good at
+the work businesses will pay for.
+
+40
+00:03:35,200 --> 00:03:40,800
+So where does this leave OpenAI?
+Playing defense — for once.
+
+41
+00:03:40,800 --> 00:03:46,400
+OpenAI is reportedly preparing
+its own confidential IPO filing.
+
+42
+00:03:46,400 --> 00:03:53,200
+The reporting says it's targeting a public debut in the
+fall — roughly the fourth quarter of this year.
+
+43
+00:03:53,200 --> 00:03:59,600
+And according to that coverage, OpenAI is worried about
+exactly this: getting beaten to the market by Anthropic.
+
+44
+00:03:59,600 --> 00:04:05,600
+Keep in mind, that timing is reported and
+targeted — not confirmed by OpenAI.
+
+45
+00:04:05,600 --> 00:04:11,200
+But think about the symbolism.
+For years, OpenAI set the pace.
+
+46
+00:04:11,200 --> 00:04:16,000
+ChatGPT was the moment AI went mainstream.
+
+47
+00:04:16,000 --> 00:04:22,400
+Now its biggest rival filed first, at a
+higher valuation, with a profit story.
+
+48
+00:04:22,400 --> 00:04:27,600
+In a race this public,
+being second to file is not a great look.
+
+49
+00:04:27,600 --> 00:04:33,200
+And zoom out, because this
+is bigger than two companies.
+
+50
+00:04:33,200 --> 00:04:38,800
+Twenty twenty-six is shaping up to be the
+year AI hits the public markets.
+
+51
+00:04:38,800 --> 00:04:45,600
+Put Anthropic, OpenAI, and Elon Musk's SpaceX together,
+and you're looking at an estimated three trillion dollars
+
+52
+00:04:45,600 --> 00:04:50,400
+in enterprise value lining up
+to enter the markets. Three trillion.
+
+53
+00:04:50,400 --> 00:04:55,200
+That's a wave of capital,
+and a wave of scrutiny.
+
+54
+00:04:55,200 --> 00:05:01,600
+Because once you're public, you answer
+to shareholders every single quarter.
+
+55
+00:05:01,600 --> 00:05:07,200
+The hype has to become real
+numbers, on a schedule.
+
+56
+00:05:07,200 --> 00:05:12,800
+So Anthropic filing first isn't just a flex.
+
+57
+00:05:12,800 --> 00:05:19,200
+It's the starting gun on the era where AI companies
+have to show their math — out loud, in public.
+
+58
+00:05:19,200 --> 00:05:24,800
+Quick thing before the wrap-up. I'm tracking
+both these filings as they move —
+
+59
+00:05:24,800 --> 00:05:29,600
+the prices, the dates, all of it.
+
+60
+00:05:29,600 --> 00:05:36,000
+If you want the plain-English version when the
+real numbers drop, hit subscribe so you don't miss it.
+
+61
+00:05:36,000 --> 00:05:42,400
+And I'm curious: would you actually
+buy Anthropic stock at this valuation?
+
+62
+00:05:42,400 --> 00:05:47,200
+Tell me yes or no in the comments — I read them.
+
+63
+00:05:47,200 --> 00:05:52,000
+Anthropic filed first. The race just flipped.
+
+64
+00:05:52,000 --> 00:05:58,400
+Next up — I'll break down what OpenAI's filing might
+actually look like, and whether it can win the market back.
+
+65
+00:05:58,400 --> 00:06:02,400
+See you in that one.
